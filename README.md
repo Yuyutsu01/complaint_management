@@ -3,9 +3,9 @@
 ## Description
 A web-based complaint management system built using HTML, CSS, JavaScript, PHP, and MySQL.
 Students can submit complaints and administrators can view and update complaint status.
-
+(a minor demonstration)
 ## Technologies Used
-- HTML, CSS
+- HTML, CSS (cascading style sheets)
 - JavaScript
 - PHP
 - MySQL
@@ -28,11 +28,4 @@ CREATE TABLE complaints (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-6. Open browser and go to:
-   http://localhost/scms/index.html
 
-## Admin Panel
-http://localhost/scms/fetch.php
-
-## Author
-Your Name
